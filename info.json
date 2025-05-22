@@ -3,7 +3,7 @@
   "plugin_type": "recognize",
   "icon": "gemini.svg",
   "display": "Gemini",
-  "homepage": "https://github.com/sunny43418/pot-app-recognize-plugin-ocrgemini",
+  "homepage": "https://github.com/chenqidi/pot-app-recognize-plugin-ocrgemini",
   "needs": [
     {
       "key": "model",
