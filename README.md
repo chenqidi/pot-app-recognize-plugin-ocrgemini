@@ -1,0 +1,1 @@
+Pot-App Gemini 文字识别插件
